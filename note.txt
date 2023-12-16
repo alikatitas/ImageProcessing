@@ -1,0 +1,4 @@
+Visual Studio Code editörü kullanılarak 
+Python dilinde 
+numpy, matplotlib ve scipy kütüphaneleri import edilerek
+kodlar çalıştırılmıştır.
